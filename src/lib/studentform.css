@@ -315,7 +315,7 @@ border: 1px solid #00dfc4;
 
 @media (max-width: 768px) {
   .form-container {
-    grid-template-columns: 2fr;
+    grid-template-columns: 1fr;
   }
   .smallscreen{
     width:100px;
