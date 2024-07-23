@@ -8,14 +8,11 @@ import Home from './lib/Home';
 // import PreviousSchoolInfo from './components/PreviousSchoolInfo';
 // import FeesInfo from './components/FeesInfo';
 // import Footer from './ui/Footer';
-import Navbar from './ui/Navbar';
+// import Navbar from './ui/Navbar';
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-     
-        <Navbar/>
- 
        <Home/>
        <div>
   
